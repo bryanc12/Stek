@@ -1,0 +1,6 @@
+name: Stek
+version: '${project.version}'
+main: net.bryanc12.minecraft.stek.Stek
+api-version: '1.20'
+authors: [BryanC12]
+description: Enable user to remove and get back saddle on pig.
